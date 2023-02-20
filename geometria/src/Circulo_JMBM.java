@@ -1,7 +1,7 @@
 //primero
 public class Circulo_JMBM extends FiguraGeometrica_JMBM {
     private double radio;
-    //Constante pi
+    //Constante  pi
     static final double PI = 3.1416;
 
     public Circulo_JMBM(double r, String tipoFigura) {
