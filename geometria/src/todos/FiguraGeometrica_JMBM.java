@@ -1,3 +1,4 @@
+package todos;
 
 public abstract class FiguraGeometrica_JMBM {
 

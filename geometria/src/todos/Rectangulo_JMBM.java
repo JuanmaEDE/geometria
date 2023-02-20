@@ -1,4 +1,4 @@
-
+package todos;
 public class Rectangulo_JMBM extends FiguraGeometrica_JMBM {
 	private double l1;
 	private double l2;

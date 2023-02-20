@@ -1,4 +1,4 @@
-
+package todos;
 public class Triangulo_JMBM extends FiguraGeometrica_JMBM {
 	private double lado1;
 	private double lado2;
